@@ -3,9 +3,6 @@
 <!--
 **email-id/email-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on a Cloud Project
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on Cloud, Security & Database Management
@@ -15,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: "My dad asked me what a cloud consultant does, I told him 'mostly Linux servers'."
 
+Here are some ideas to get you started:
+-->
